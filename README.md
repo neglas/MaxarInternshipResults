@@ -1,1 +1,1 @@
-![me](https://github.com/neglas/MaxarInternshipResults/DepthMap.gif)
+![me](https://github.com/neglas/MaxarInternshipResults/blob/main/DepthMap.gif)
