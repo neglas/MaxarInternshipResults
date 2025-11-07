@@ -10,3 +10,4 @@ Everything was connected to an API that the user could use to determine the degr
 
 
 <img src="./DepthMap.gif"/>
+<img src="./GeneratedCity.gif"/>
