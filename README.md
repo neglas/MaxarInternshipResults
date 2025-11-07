@@ -36,7 +36,7 @@ This was at the time my longest running project at Trafikverket. There is a prob
 <p align="center">
   <img src="OldResults/TreeSegmentation/Trees.png" width="75%" height="75%"/>
   
-  Part of original point cloud.
+  <em>Part of original point cloud.</em>
 </p>
 
 
