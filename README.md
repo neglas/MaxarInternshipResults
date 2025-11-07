@@ -25,5 +25,5 @@ Left: Proceduraly generated city   Right: Resulting depth map
 
 When working at Trafikverket I had the idea to render their point cloud of the swedish road network as a mesh instead. It would serve as a startingpoint to take the bags of random points that Trafikverket had and start to hierarchialy classify them as bags of objects instead. This would save space and make it easier to use other algorithms to extract information from the dataset. The cloth simulation starts by building projecting the points into a 2D plane and extract the edges of the point cloud. A script builds a triangular mesh with a granularity that the user can decide. Then it is just a question about moving the points while using the point cloud itself as a barrier.
 
-<img src="OldResults/DSMviaClothSim/PointCloudAndClothSim.gif" width="200%" height="200%"/><img src="OldResults/DSMviaClothSim/ClothSimResult.gif" width="200%" height="200%"/>
+<img src="OldResults/DSMviaClothSim/PointCloudAndClothSim.gif" width="100%" height="100%"/><img src="OldResults/DSMviaClothSim/ClothSimResult.gif" width="200%" height="200%"/>
 Left: Proceduraly generated city   Right: Resulting depth map
