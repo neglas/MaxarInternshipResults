@@ -1,10 +1,10 @@
-*Project results 
+# Project results 
 This is a small file area for interesting projects I have completed in my work life. The results are displayed as images or Gifs and are only a snippet of the final results, the results themself are a subset of many projects over the years.
 The area is meant as a light version of a portfolio, to give reqqruiters an easier overview. However, if there is anything you wish to discuss please send me an email. The projects are displayed with no internal order.
 Kind regards
 Niclas Hansson
 
-**Procedural Technical Intern
+## Procedural Technical Intern
 This is the result of my internship at Maxar technologies summer 2021.
 
 Built a random number generator with Python script to generate realistic cities with occlusions and depth maps from a satellite perspective, potentially to be used to train a neural network to estimate depth maps.
