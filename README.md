@@ -55,17 +55,12 @@ This was at the time my longest running project at Trafikverket. There is a prob
     <p align="center">
       <img src="OldResults/TreeSegmentation/Voxelization.png" width="75%" height="75%"/>
       
-      Points are clumped together in a voxelgrid, based on proximity and cluster direction.
+      Points are clumped together in a voxelgrid, based on proximity and cluster direction. 
+      Top: Filtering results Bottom: Clustering results
   </p>
 </figure>
 
-  <figure>
-    <p align="center">
-      <img src="OldResults/TreeSegmentation/TrunkExtractionResult.png" width="75%" height="75%"/>
-      
-      Extracted trunks
-  </p>
-</figure>
+  <
 
   <figure>
     <p align="center">
